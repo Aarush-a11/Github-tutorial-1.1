@@ -9,3 +9,4 @@ Orange
 Red
 These are the colors of the rainbow.
 My poem is not in the same flow.
+White is not in the rainbow.
