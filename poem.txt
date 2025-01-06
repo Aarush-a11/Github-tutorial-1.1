@@ -6,8 +6,9 @@ Blue
 Green
 Yellow
 Orange
+Unicorn
 Red
-Unicorns
+Red should be before unicorn
 These are the colors of the rainbow.
 And the unicorn.
 My poem is not in the same flow.
