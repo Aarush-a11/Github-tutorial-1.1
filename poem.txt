@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 Violet
 Indigo
@@ -6,7 +6,9 @@ Blue
 Green
 Yellow
 Orange
+Unicorn
 Red
 These are the colors of the rainbow.
+And the unicorn.
 My poem is not in the same flow.
 White is not in the rainbow.
